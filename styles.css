@@ -9,5 +9,20 @@ Also, consider how you should select the image
 (class vs id vs element selector).
 */
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Happy Monkey", system-ui;
+}
+
+.avatar {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}   
+
 
 
