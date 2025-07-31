@@ -55,6 +55,7 @@ provided design slide.
 }
 
 .gift-img {
+    margin: 0 auto;
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
