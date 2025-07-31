@@ -1,28 +1,29 @@
-/*
-Challenge:
-Style the app according to the provided design.
-The font is called "Happy Monkey" and can be
-embedded via Google Fonts.
-
-Don't know how to make an image round? Google it!
-Also, consider how you should select the image 
-(class vs id vs element selector).
-*/
-
 * {
     margin: 0;
     padding: 0;
 }
 
+/*
+Challenge:
+Add colors to the site based on the provided design.
+
+pink: #EFB0C9
+blue: #a2d2ff
+white: #ffffff
+*/
+
 body {
     text-align: center;
-    font-family: "Happy Monkey", system-ui;
+    font-family: 'Happy Monkey', cursive;
+    background-color: #a2d2ff;
+    color: #ffffff;
 }
 
-#avatar {
+#bff-img {
     width: 150px;
     border-radius: 50%;
-}   
+    border: 5px solid #efb0c9;
+}
 
 
 
