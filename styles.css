@@ -3,20 +3,15 @@
     padding: 0;
 }
 
-/*
-Challenge:
-Add colors to the site based on the provided design.
-
-pink: #EFB0C9
-blue: #a2d2ff
-white: #ffffff
-*/
-
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
     background-color: #a2d2ff;
     color: #ffffff;
+}
+
+h1, h2, h4 {
+    text-shadow: 0 0 1px black;
 }
 
 #bff-img {
