@@ -15,12 +15,12 @@ Also, consider how you should select the image
 }
 
 body {
+    text-align: center;
     font-family: "Happy Monkey", system-ui;
 }
 
-.avatar {
-    width: 100px;
-    height: auto;
+#avatar {
+    width: 150px;
     border-radius: 50%;
 }   
 
