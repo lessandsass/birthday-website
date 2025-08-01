@@ -64,6 +64,10 @@ Swap the gift paper image out with
 the happy.gif when you hover over it!
 */
 
-.gift-img:hover {
+#gift-img-happy:hover {
     background-image: url("images/happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("images/hot.gif");
 }
