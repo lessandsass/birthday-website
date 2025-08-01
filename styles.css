@@ -90,3 +90,11 @@ The only person as badass as you 💪
 #gift-img-badass:hover {
     background-image: url("images/badass.gif");
 }
+
+#gift-img-cheers {
+    height: 200px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("images/cheers.gif");
+}
