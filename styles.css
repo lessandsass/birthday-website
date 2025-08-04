@@ -98,3 +98,13 @@ The only person as badass as you 💪
 #gift-img-cheers:hover {
     background-image: url("images/cheers.gif");
 }
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
