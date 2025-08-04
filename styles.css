@@ -3,6 +3,7 @@ body {
     font-family: 'Happy Monkey', cursive;
     background: #a2d2ff;
     color: #ffffff;
+    background: linear-gradient(#e66465, #9198e5);
 }
 
 h1, h2, h3, h4, p {
@@ -71,17 +72,6 @@ the happy.gif when you hover over it!
 #gift-img-hot:hover {
     background-image: url("images/hot.gif");
 }
-
-/*
-Challenge:
-Create the "genius" and "badass" GIFt sections.
-
-Texts:
-If I had to describe you with ONE word 👇
-
-The only person as badass as you 💪
-
-*/
 
 #gift-img-genius:hover {
     background-image: url("images/genius.gif");
